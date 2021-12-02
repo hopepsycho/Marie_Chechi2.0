@@ -1,7 +1,7 @@
 
 {
-  "name": "Marie_Chechi2.0",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "kunjappan",
+  "description": "Telegram's sassiest group manager. Modular Telegram group management bot! provided by @hopepsycho",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/hopepsycho/kunjappan",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "682307346"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "king_of_psycho"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,15 +41,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1316481146 682307346 570400686 466337795"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "682307346 1316481146 570400686 466337795"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "value": "1316481146 682307346 570400686 466337795"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
@@ -72,7 +72,7 @@
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "Which sticker to use when banning people. Use https://telegram.dog/king_of_psycho to get the file_id",
       "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
     }
   },
